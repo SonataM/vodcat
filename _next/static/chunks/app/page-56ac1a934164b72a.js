@@ -310,13 +310,13 @@
                     children: [
                       (0, s.jsx)(o, {
                         children: (0, s.jsx)("a", {
-                          href: "https://x.com",
+                          href: "https://x.com/vodcatcoinerc20",
                           target: "_blank",
                           rel: "noopener noreferrer",
                           children: (0, s.jsx)("div", {
                             onClick: () =>
                               window.open(
-                                "https://x.com",
+                                "https://x.com/vodcatcoinerc20",
                                 "_blank"
                               ),
                             className: "bg-white rounded-md p-3 xl:p-4",
@@ -333,7 +333,7 @@
                       }),
                       (0, s.jsx)(o, {
                         children: (0, s.jsx)("a", {
-                          href: "https://t.me",
+                          href: "https://t.me/vodcat_channel",
                           target: "_blank",
                           rel: "noopener noreferrer",
                           children: (0, s.jsx)("div", {
@@ -341,7 +341,7 @@
                             children: (0, s.jsx)(n.default, {
                               onClick: () =>
                                 window.open(
-                                  "https://t.me",
+                                  "https://t.me/vodcat_channel",
                                   "_blank"
                                 ),
                               src: "/icons/telegram.svg",
